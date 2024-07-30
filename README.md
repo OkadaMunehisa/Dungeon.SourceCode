@@ -2,6 +2,8 @@
 
 このリポジトリでは、作品展示会制作した作品のソースコードを公開します。
 
+[![作品　プレイ動画　30秒](https://img.youtube.com/vi/vSRGrnvSwRo/0.jpg)](https://youtu.be/vSRGrnvSwRo?si=YM9okT-i_-i7TRUK)  
+
 ## 内容
 
 資料でアピールしている部分のソースコードを添付しています。
